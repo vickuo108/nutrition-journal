@@ -1,0 +1,18 @@
+{
+  "name": "日常食記 · Vic",
+  "short_name": "日常食記",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#fbfaf4",
+  "theme_color": "#284b36",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

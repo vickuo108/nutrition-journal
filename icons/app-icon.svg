@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="日常食記">
+  <rect width="512" height="512" rx="112" fill="#284b36"/>
+  <circle cx="256" cy="256" r="160" fill="#f7f5ed"/>
+  <path d="M162 274c84 3 150-43 184-126 18 84-25 182-116 201-37 8-68-2-92-22 20-13 45-31 70-59-27 14-53 21-81 21 7-9 19-15 35-15Z" fill="#426b4f"/>
+</svg>
