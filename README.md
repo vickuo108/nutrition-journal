@@ -15,5 +15,5 @@ Firebase 資料使用 `users/{uid}/data/nutrition-journal-main`，不會混用�
 `sw.js` 的 cache 名稱使用 `nutrition-YYYY-MM-DD-N`。
 
 - `YYYY-MM-DD` 使用台北時間的修改日期
-- `N` 是當天第幾次需要讓 PWA 自動更新的修改
+- `N` 以當天第幾次推上線為主；多個本機修改還沒推時，仍共用同一個版本號
 - 例：`nutrition-2026-09-18-2`
