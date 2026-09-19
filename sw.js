@@ -1,4 +1,4 @@
-const CACHE = "nutrition-2026-09-19-54";
+const CACHE = "nutrition-2026-09-19-55";
 const APP_SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icons/app-icon.svg"];
 
 self.addEventListener("install", event => {
